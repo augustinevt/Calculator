@@ -6,7 +6,7 @@
 
 ## Description
 
-This project will eventually be a simple calculator.  For now it only has basic backend addition and no user interface.
+This project will eventually be a simple calculator.  For now it only has basic backend functions and no user interface.  Current functions include addition, subtraction, multiplication and division.
 
 ## Setup/Installation Requirements
 
