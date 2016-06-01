@@ -1,0 +1,8 @@
+#h1 {
+text-align: center;
+font-size: 2em;
+}
+
+input::-webkit-input-placeholder {
+  font-family: monospace;
+}
